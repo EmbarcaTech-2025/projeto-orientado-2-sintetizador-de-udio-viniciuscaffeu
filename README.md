@@ -1,11 +1,10 @@
-<div align="center">
 
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 ## Projeto 2: Sintetizador de Áudio para a Placa BitDogLab
 
 <br>
 
-**Autor:** Vinicius Caffe U
+**Autor:** Vinicius Caffeu
 <br>
 **Curso:** Residência Tecnológica em Sistemas Embarcados
 <br>
